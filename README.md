@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishad Mandal</h1>
-<h3 align="center">A Stack-independent Software, having an interest in understanding how the system works be it hardware, kernels, OS, software, and Web. working my way to one day revolutionize computation</h3>
+<h3 align="center">A Stack-independent Software Engineer, having an interest in understanding how the system works be it hardware, kernels, OS, software, and Web. working my way to one day revolutionize computation</h3>
 
 - 🔭 I’m currently working on [pchat](https://github.com/vishadmandal/P-chat) and will come up with a better name afterward but let's just call it p-chat for now, a highly geeky chat app for geeks.
 
