@@ -1,16 +1,160 @@
-<h1 align="center">Hi 👋, I'm Vishad Mandal</h1>
-<h3 align="center">A Stack-independent Software Engineer, having an interest in understanding how the system works be it hardware, kernels, OS, software, and Web. working my way to one day revolutionize computation</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [pchat](https://github.com/vishadmandal/P-chat) and will come up with a better name afterward but let's just call it p-chat for now, a highly geeky chat app for geeks.
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║          > whoami                                            ║
+║          Vishad Mandal — Senior Software & AI Engineer       ║
+║          Building distributed systems & shipping AI          ║
+║          products to production since 2020                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-- 📫 How to reach me **vishum.10m@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-VishadMandal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishadMandal)
+[![Email](https://img.shields.io/badge/Email-vishum.10m%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vishum.10m@gmail.com)
+[![Location](https://img.shields.io/badge/Based_in-Hyderabad,_India-34A853?style=flat-square&logo=googlemaps&logoColor=white)]()
 
-- ⚡ Fun fact **I do photography, Esports, and lots of cool stuff.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vishadmandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishadmandal" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## `$ cat about.txt`
+
+```python
+class Engineer:
+    name        = "Vishad Mandal"
+    role        = "Senior Software & AI Engineer"
+    experience  = "6+ years"
+    focus       = ["Distributed Systems", "Backend Engineering", "AI Products"]
+    currently   = "Building reliability into systems that can't afford to fail"
+
+    highlights  = {
+        "Elasticsearch"  : "Stabilized 9.5TB cluster → crashes 4-5/mo → <1/mo",
+        "Query Latency"  : "8s → 1.2s  (~85% improvement)",
+        "VKYC Platform"  : "Recording failure 12% → 1.8% (Airtel PB + Union Bank)",
+        "AI Products"    : "3 independent systems shipped to AWS production",
+        "Airflow DAGs"   : "50+ owned across distributed on-prem worker nodes",
+    }
+
+    principle   = "Production is the only environment that matters."
+```
+
+---
+
+## `$ ls -la ./tech-stack/`
+
+**Backend & API**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/RAG_Pipelines-FF6B35?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-Local_LLMs-333333?style=flat-square&logoColor=white)
+![Prophet](https://img.shields.io/badge/Meta_Prophet-0668E1?style=flat-square&logo=meta&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+
+**Data Engineering**
+
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-Vector_DB-FF4B4B?style=flat-square&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_RHEL-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white)
+
+**Observability & DevOps**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F5A623?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+## `$ cat ./projects/README.md`
+
+> All production projects are under NDA. Sanitized versions and architecture writeups coming soon.
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🔴  RFQ Compliance Engine                                  │
+│       AI document intelligence for OEM procurement          │
+│       6-10 hrs of manual review → minutes                   │
+│       Stack: FastAPI · LanceDB · GPT-4o · Ollama · AWS      │
+│       [ Dynamic chunking · RAG · Feedback loop engine ]     │
+├─────────────────────────────────────────────────────────────┤
+│  🟡  Social Media Intelligence Platform                     │
+│       AI-powered cross-platform publishing & analytics      │
+│       1-click publish to Instagram, YouTube, FB, TikTok     │
+│       Stack: FastAPI · React · Gemini · Perplexity · AWS    │
+│       [ Audience psychology · Trend analysis · Scheduler ]  │
+├─────────────────────────────────────────────────────────────┤
+│  🟢  Financial Forecasting & Money Psychology Platform      │
+│       Behavioural finance + AI cash flow prediction         │
+│       Multi-horizon forecasting · Goal achievement engine   │
+│       Stack: FastAPI · Airflow · Prophet · Ollama · AWS     │
+│       [ Time-series · Anomaly detection · LLM reports ]     │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ tail -n 6 ./career/highlights.log`
+
+```
+[2020-07]  Took ownership of live banking VKYC platform mid-college
+[2021-03]  Running 2 enterprise banking clients in production (Airtel PB + UBI)
+[2022-06]  Graduated B.Tech — never stopped shipping
+[2023-01]  Deployed first AI-powered product to AWS production
+[2024-07]  Stabilized 9.5TB Elasticsearch cluster — 4-5 crashes/mo → near zero
+[2026-04]  Currently: Senior Engineer @ ValueLabs · Open to new challenges
+```
+
+---
+
+## `$ ping interests.local`
+
+```
+PING interests.local
+  reply from: E-Sports & Sim Racing       — always optimizing lap times
+  reply from: Photography                 — finding signal in visual noise
+  reply from: Playing Drums              — rhythm is just distributed timing
+  reply from: Go-Karting                 — latency matters everywhere
+```
+
+---
+
+<div align="center">
+
+```
+// Currently open to Senior Backend / SRE / AI Engineering roles
+// Hyderabad, India  ·  Open to hybrid & remote
+```
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VishadMandal)
+[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishum.10m@gmail.com)
+
+</div>
