@@ -99,25 +99,60 @@ class Engineer:
 > All production projects are under NDA. Sanitized versions and architecture writeups coming soon.
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  🔴  RFQ Compliance Engine                                  │
-│       AI document intelligence for OEM procurement          │
-│       6-10 hrs of manual review → minutes                   │
-│       Stack: FastAPI · LanceDB · GPT-4o · Ollama · AWS      │
-│       [ Dynamic chunking · RAG · Feedback loop engine ]     │
-├─────────────────────────────────────────────────────────────┤
-│  🟡  Social Media Intelligence Platform                     │
-│       AI-powered cross-platform publishing & analytics      │
-│       1-click publish to Instagram, YouTube, FB, TikTok     │
-│       Stack: FastAPI · React · Gemini · Perplexity · AWS    │
-│       [ Audience psychology · Trend analysis · Scheduler ]  │
-├─────────────────────────────────────────────────────────────┤
-│  🟢  Financial Forecasting & Money Psychology Platform      │
-│       Behavioural finance + AI cash flow prediction         │
-│       Multi-horizon forecasting · Goal achievement engine   │
-│       Stack: FastAPI · Airflow · Prophet · Ollama · AWS     │
-│       [ Time-series · Anomaly detection · LLM reports ]     │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────┐
+│  🟢  agentpolicy                          [ OPEN SOURCE ]       │
+│       Runtime RBAC + prompt injection defense for LLM agents    │
+│       Defines what tools an agent can call, what data it can    │
+│       access, and what happens when the LLM gets compromised.   │
+│       Permission ceiling propagation across delegation chains.  │
+│       Stack: Python · LangGraph · YAML · Pydantic               │
+│       → github.com/vishadmandal/agentpolicy                     │
+├─────────────────────────────────────────────────────────────────┤
+│  🔴  EngiCore                             [ PRIVATE ]           │
+│       AI document intelligence — RFQ compliance mapping         │
+│       Hours of manual clause cross-referencing → minutes        │
+│       Budget-aware paragraph packing fills 400k context window  │
+│       Dual-retrieval: spec embeddings + feedback memory         │
+│       Stack: FastAPI · LanceDB · GPT · PyMuPDF · OCR · React    │
+├─────────────────────────────────────────────────────────────────┤
+│  🔴  Quantum AI                           [ PRIVATE ]           │
+│       Multi-tenant AI social publishing platform                │
+│       Hybrid AI: visual analysis + real-time trend fusion       │
+│       Handles all Meta/Instagram OAuth edge cases (3 paths)     │
+│       Stack: FastAPI · Gemini · Perplexity Sonar · Meta API     │
+├─────────────────────────────────────────────────────────────────┤
+│  🔴  Reelmaker                            [ PRIVATE ]           │
+│       AI-driven short-form video renderer from YAML templates   │
+│       Vision LLM analyzes clips → LLM maps to scene slots       │
+│       Cinematic logo finale via per-frame PIL/NumPy compositing │
+│       Stack: Python · MoviePy · Ollama · OpenAI · Pydantic      │
+├─────────────────────────────────────────────────────────────────┤
+│  🔴  AI_VID                               [ PRIVATE ]           │
+│       Local-first AI video transcription + captioning platform  │
+│       Zero cloud dependency — all inference via Ollama          │
+│       faster-whisper + LLaVA + Celery on 6-service Compose      │
+│       Stack: FastAPI · Celery · Redis · MinIO · Ollama          │
+├─────────────────────────────────────────────────────────────────┤
+│  🟡  stripdown                    [ OPEN SOURCE — COMING SOON ] │
+│       npm package surgeon — strips unused code at module level  │
+│       Babel AST analysis → synthetic wrapper via Node resolver  │
+│       No bundler, no build step, no monkey-patching required    │
+│       Stack: Node.js · Babel · Commander                        │
+│       → github.com/vishadmandal/stripdown                       │
+├─────────────────────────────────────────────────────────────────┤
+│  🔴  Myndfi                              [ PERSONAL — WIP ]     │
+│       AI-powered expense tracker + financial psychology engine  │
+│       Prophet forecasts spending trends + future projections    │
+│       Goal-aware onboarding (house, savings, retirement etc)    │
+│       LLM analyzes full spend history → money psychology report │
+│       Web + mobile · Backend + UI built · Pending deployment    │
+│       Stack: FastAPI · Prophet · Airflow · Ollama · React       │
+├─────────────────────────────────────────────────────────────────┤
+│  🔵  TataPlay Workforce Forecasting       [ PRODUCTION ]        │
+│       Prophet-based demand forecasting — 95-98% accuracy        │
+│       Reverse-engineered undocumented legacy DSS from scratch   │
+│       Stack: Python · Meta Prophet · Apache Airflow             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
